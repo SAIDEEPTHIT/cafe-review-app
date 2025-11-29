@@ -13,3 +13,6 @@ Firebase / Supabase
 
 ### Purpose:
 To practice collaborative Git workflow (fork → branch → PR → conflict resolution).
+# cafe-review-app
+
+Updated from main branch
